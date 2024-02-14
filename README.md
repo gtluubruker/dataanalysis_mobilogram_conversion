@@ -45,7 +45,7 @@ containing the 1/K0, m/z, and intensity values. This will be used as your input.
 
 #### Parameters
 
-`convert_mobilogram`
+`convert_mobilogram`<br>
 `--input`: File path for .xyz file exported from Bruker DataAnalysis heatmap.<br>
 `--outdir`: Path to folder in whch to write output .xy file. Default = same as input path.<br>
 `--outfile`: User defined filename for output .xy file.<br>
