@@ -49,9 +49,9 @@ containing the 1/K0, m/z, and intensity values. This will be used as your input.
 `--input`: File path for .xyz file exported from Bruker DataAnalysis heatmap.<br>
 `--outdir`: Path to folder in whch to write output .xy file. Default = same as input path.<br>
 `--outfile`: User defined filename for output .xy file.<br>
-`--charge`: Assumed charge to be used for 1/K0 -> CCS conversion. Default = 1.
-`--decimals`: Number of decimal places to round CCS values to.
-`--include_header`: Include header in output .xy file.
+`--charge`: Assumed charge to be used for 1/K0 -> CCS conversion. Default = 1.<br>
+`--decimals`: Number of decimal places to round CCS values to.<br>
+`--include_header`: Include header in output .xy file.<br>
 
 ### Example
 
