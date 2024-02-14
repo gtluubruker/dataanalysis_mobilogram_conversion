@@ -35,7 +35,7 @@ pip install git+https://github.com/gtluubruker/dataanalysis_mobilogram_conversio
 
 ## Usage
 
-## In Bruker DataAnalysis 6.1
+### In Bruker DataAnalysis 6.1
 
 Please note that steps may vary slightly in older versions of DataAnalysis.
 
