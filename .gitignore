@@ -1,0 +1,13 @@
+*pyc
+/.ipynb_checkpoints
+/.idea
+/shelf/
+/workspace.xml
+/venv
+/prototype
+/depracated
+/data
+/dist
+/db
+/test/massive.ucsd.edu
+/build
