@@ -20,12 +20,12 @@ environment used during development are below.
 
 3. Create a new conda virtual environment:
 ```
-conda create -n timstof_targeted_3d_maldi_analysis python=3.11
+conda create -n dataanalysis_mobilogram_conversion python=3.11
 ```
 
 4. Activate the venv:
 ```
-conda activate timstof_targeted_3d_maldi_analysis
+conda activate dataanalysis_mobilogram_conversion
 ```
 
 5. Install this package:
